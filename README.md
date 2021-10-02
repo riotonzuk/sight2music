@@ -2,4 +2,4 @@
 
 ---------------------
 
-### DISCLAIMER: This repo is a work-in-progress (but all the required code is present; still figuring out copyright issues for the self-created dataset).
+### DISCLAIMER: This repo is a work-in-progress; while all the required code is present, I'm still figuring out copyright issues for my self-created dataset.
